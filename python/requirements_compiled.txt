@@ -2363,7 +2363,7 @@ torchvision==0.18.0
     #   -r python/requirements/ml/dl-cpu-requirements.txt
     #   mosaicml
     #   timm
-tornado==6.1 ; python_version < "3.12"
+tornado==6.5.5 ; python_version < "3.12"
     # via
     #   -r python/requirements/test-requirements.txt
     #   bokeh
